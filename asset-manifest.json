@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pylon/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/pylon/static/js/main.996d02cf.chunk.js",
+    "main.js.map": "/pylon/static/js/main.996d02cf.chunk.js.map",
+    "runtime-main.js": "/pylon/static/js/runtime-main.064660ef.js",
+    "runtime-main.js.map": "/pylon/static/js/runtime-main.064660ef.js.map",
+    "static/js/2.ada38ed6.chunk.js": "/pylon/static/js/2.ada38ed6.chunk.js",
+    "static/js/2.ada38ed6.chunk.js.map": "/pylon/static/js/2.ada38ed6.chunk.js.map",
+    "index.html": "/pylon/index.html",
+    "precache-manifest.1d6d4d762365a979a90f85f289e8d19d.js": "/pylon/precache-manifest.1d6d4d762365a979a90f85f289e8d19d.js",
+    "service-worker.js": "/pylon/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/pylon/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ada38ed6.chunk.js.LICENSE.txt": "/pylon/static/js/2.ada38ed6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.064660ef.js",
+    "static/js/2.ada38ed6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.996d02cf.chunk.js"
+  ]
+}
